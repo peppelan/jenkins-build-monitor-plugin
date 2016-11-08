@@ -1,0 +1,2 @@
+language: java
+script: mvn verify -Dphantomjs.binary.path=phantomjs -Dwebdriver.driver=phantomjs
